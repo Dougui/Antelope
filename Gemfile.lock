@@ -44,7 +44,7 @@ GEM
       autotest-standalone (~> 4.5)
     autotest-rails (4.1.0)
       ZenTest
-    autotest-standalone (4.5.5)
+    autotest-standalone (4.5.6)
     builder (2.1.2)
     capybara (1.0.1)
       mime-types (>= 1.16)
